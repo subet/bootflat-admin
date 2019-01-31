@@ -59,3 +59,6 @@ Bootflat-Admin is simply a modified copy of Bootflat with extra magic stuff in i
 
 ## LICENSE
 Bootflat-Admin is licensed under the MIT Open Source license. For more information, please see the LICENSE file in this repository.
+
+## By Subet
+You can find this theme and similar bootstrap admin themes on: https://usebootstrap.com/themes/admin-dashboard
